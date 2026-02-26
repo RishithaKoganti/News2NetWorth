@@ -1,0 +1,10 @@
+yfinance
+newsapi-python
+transformers
+torch
+xgboost
+scikit-learn
+openai
+python-dotenv
+pandas
+numpy
